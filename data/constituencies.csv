@@ -1,0 +1,651 @@
+constituency_id,name,region,electorate,turnout,status,swing
+E14000530,Aldershot,South East,72434,46191,hold,1.18
+E14000531,Aldridge-Brownhills,West Midlands,60215,39497,hold,4.92
+E14000532,Altrincham and Sale West,North West,72004,50517,hold,0.11
+E14000533,Amber Valley,East Midlands,70226,45717,hold,4.02
+E14000534,Arundel and South Downs,South East,77272,56477,hold,2.87
+E14000535,Ashfield,East Midlands,77126,47409,hold,3.55
+E14000536,Ashford,South East,85189,57372,hold,7.98
+E14000537,Ashton-under-Lyne,North West,67714,38918,hold,1.99
+E14000538,Aylesbury,South East,80611,55419,hold,7.21
+E14000539,Banbury,South East,86420,58008,hold,0.97
+E14000540,Barking,London,74004,43023,hold,7.98
+E14000541,Barnsley Central,Yorkshire and the Humber,64534,36560,hold,4.29
+E14000542,Barnsley East,Yorkshire and the Humber,69135,38517,hold,5.65
+E14000543,Barrow and Furness,North West,68338,43275,hold,4.98
+E14000544,Basildon and Billericay,East of England,68459,43028,hold,0.34
+E14000545,Basingstoke,South East,79662,53076,hold,4.64
+E14000546,Bassetlaw,East Midlands,77480,49289,hold,0.69
+E14000547,Bath,South West,60869,47167,gain,16.68
+E14000548,Batley and Spen,Yorkshire and the Humber,78373,50473,hold,1.68
+E14000549,Battersea,London,76106,51031,hold,1.65
+E14000550,Beaconsfield,South East,76380,53163,hold,3.31
+E14000551,Beckenham,London,67436,48803,hold,2.78
+E14000552,Bedford,East Anglia,69311,46086,hold,0.31
+E14000553,Bermondsey and Old Southwark,London,80604,51424,gain,13.92
+E14000554,Berwick-upon-Tweed,North East,58098,40423,gain,9.58
+E14000555,Bethnal Green and Bow,London,82825,52924,hold,8.47
+E14000556,Beverley and Holderness,Yorkshire and the Humber,80822,52677,hold,1.42
+E14000557,Bexhill and Battle,South East,78796,55218,hold,
+E14000558,Bexleyheath and Crayford,London,64828,43685,hold,1.46
+E14000559,Birkenhead,North West,62438,37680,hold,5.61
+E14000560,Birmingham Edgbaston,West Midlands,65591,41293,hold,1.74
+E14000561,Birmingham Erdington,West Midlands,65128,34684,hold,2.78
+E14000562,Birmingham Hall Green,West Midlands,76330,47046,hold,12.12
+E14000563,Birmingham Hodge Hill,West Midlands,75302,41039,hold,8.28
+E14000564,Birmingham Ladywood,West Midlands,68128,35916,hold,8.57
+E14000565,Birmingham Northfield,West Midlands,71428,42461,hold,0.37
+E14000566,Birmingham Perry Barr,West Midlands,69943,41260,hold,3.48
+E14000567,Birmingham Selly Oak,West Midlands,75092,45294,hold,5.59
+E14000568,Birmingham Yardley,West Midlands,72146,41151,gain,11.69
+E14000569,Bishop Auckland,North East,66089,39389,hold,1.89
+E14000570,Blackburn,North West,73265,43999,hold,3.67
+E14000571,Blackley and Broughton,North West,71900,37112,hold,3.09
+E14000572,Blackpool North and Cleveleys,North West,62469,39393,hold,1.59
+E14000573,Blackpool South,North West,57411,32436,hold,1.35
+E14000574,Blaydon,North East,67706,44936,hold,
+E14000575,Blyth Valley,North East,63958,38461,hold,8.09
+E14000576,Bognor Regis and Littlehampton,South East,73095,47116,hold,7.67
+E14000577,Bolsover,East Midlands,71976,43998,hold,0.67
+E14000578,Bolton North East,North West,67901,43161,hold,0.35
+E14000579,Bolton South East,North West,69692,40743,hold,8.33
+E14000580,Bolton West,North West,72727,48592,gain,0.92
+E14000581,Bootle,North West,70137,45152,hold,1.61
+E14000582,Boston and Skegness,East Midlands,67834,43339,hold,14.99
+E14000583,Bosworth,East Midlands,79742,53582,hold,5.62
+E14000584,Bournemouth East,South West,71956,44827,hold,1.29
+E14000585,Bournemouth West,South West,72082,41773,hold,4.12
+E14000586,Bracknell,South East,78131,53086,hold,1.64
+E14000587,Bradford East,Yorkshire and the Humber,66123,41406,gain,9.01
+E14000588,Bradford South,Yorkshire and the Humber,63670,37600,hold,2.49
+E14000589,Bradford West,Yorkshire and the Humber,63371,40290,gain,6.97
+E14000590,Braintree,East Anglia,73557,50283,hold,6.29
+E14000591,Brent Central,London,77038,47032,gain,28.36
+E14000592,Brent North,London,82196,52235,hold,2.7
+E14000593,Brentford and Isleworth,London,84557,57355,gain,2.23
+E14000594,Brentwood and Ongar,East Anglia,72461,51897,hold,5.43
+E14000595,Bridgwater and Somerset West,South West,80491,54447,hold,6.86
+E14000596,Brigg and Goole,Yorkshire and the Humber,68486,43270,hold,7.05
+E14000597,Brighton Kemptown,South East,67858,45306,hold,0.79
+E14000598,Brighton Pavilion,South East,76557,54676,hold,6.08
+E14000599,Bristol East,South West,71965,46213,hold,0.17
+E14000600,Bristol North West,South West,76626,51805,hold,1.24
+E14000601,Bristol South,South West,81996,50842,hold,0.76
+E14000602,Bristol West,South West,89198,64218,gain,18.67
+E14000603,Broadland,East of England,74680,53089,hold,0.33
+E14000604,Bromley and Chislehurst,London,65476,44066,hold,3.09
+E14000605,Bromsgrove,West Midlands,73329,52245,hold,4.87
+E14000606,Broxbourne,East Anglia,72944,46024,hold,9.16
+E14000607,Broxtowe,East Midlands,71865,53440,hold,3.64
+E14000608,Buckingham,South East,77572,53692,hold,6.41
+E14000609,Burnley,North West,64486,39746,gain,6.25
+E14000610,Burton,West Midlands,75300,49334,hold,5.08
+E14000611,Bury North,North West,67580,45230,hold,2.08
+E14000612,Bury South,North West,73883,47215,hold,1.8
+E14000613,Bury St Edmunds,East Anglia,85993,59341,hold,2.52
+E14000614,Calder Valley,Yorkshire and the Humber,77753,53541,hold,2.08
+E14000615,Camberwell and Peckham,London,80507,51561,hold,1.96
+E14000616,Camborne and Redruth,South West,66944,45868,hold,2.98
+E14000617,Cambridge,East Anglia,83384,51774,gain,8.01
+E14000618,Cannock Chase,West Midlands,74531,47099,hold,1.72
+E14000619,Canterbury,South East,83481,53465,hold,5.17
+E14000620,Carlisle,North West,65827,42587,hold,2.25
+E14000621,Carshalton and Wallington,London,69866,47613,hold,4.14
+E14000622,Castle Point,East Anglia,68170,44729,hold,
+E14000623,Devon Central,South West,72737,54448,hold,3.55
+E14000624,Central Suffolk and North Ipswich,East Anglia,78782,54089,hold,1.32
+E14000625,Charnwood,East Midlands,77269,52261,hold,1.23
+E14000626,Chatham and Aylesford,South East,68625,43073,hold,6.37
+E14000627,Cheadle,North West,73239,53095,gain,9.19
+E14000628,Chelmsford,East of England,78580,53817,hold,0.65
+E14000629,Chelsea and Fulham,London,63478,40226,hold,1.06
+E14000630,Cheltenham,South West,77286,53735,gain,10.72
+E14000631,Chesham and Amersham,South East,73423,52731,hold,5.47
+E14000632,Chesterfield,East Midlands,72078,45567,hold,3.27
+E14000633,Chichester,South East,83575,57139,hold,2.9
+E14000634,Chingford and Woodford Green,London,66691,43804,hold,5.46
+E14000635,Chippenham,South West,74225,55407,gain,11.45
+E14000636,Chipping Barnet,London,77853,53013,hold,4.56
+E14000637,Chorley,North West,74679,51712,hold,1.78
+E14000638,Christchurch,South West,69302,49707,hold,5.64
+E14000639,Cities of London and Westminster,London,60992,36185,hold,1.63
+E14000640,City of Chester,North West,72269,51161,gain,2.85
+E14000641,City of Durham,North East,68741,45669,hold,2.99
+E14000642,Clacton,East of England,68936,44207,hold,
+E14000643,Cleethorpes,Yorkshire and the Humber,70514,45089,hold,3.97
+E14000644,Colchester,East Anglia,74203,48593,gain,13.3
+E14000645,Colne Valley,Yorkshire and the Humber,82510,56790,hold,0.56
+E14000646,Congleton,North West,72398,50976,hold,2.17
+E14000647,Copeland,North West,62119,39631,hold,1.24
+E14000648,Corby,East Midlands,79775,56174,gain,0.4
+E14000649,Coventry North East,West Midlands,76401,42231,hold,0.96
+E14000650,Coventry North West,West Midlands,74597,45246,hold,1.77
+E14000651,Coventry South,West Midlands,71380,43699,hold,0.54
+E14000652,Crawley,South East,73940,48550,hold,0.48
+E14000653,Crewe and Nantwich,North West,74039,49896,hold,2.29
+E14000654,Croydon Central,London,78171,52941,hold,2.83
+E14000655,Croydon North,London,85951,53522,hold,4.01
+E14000656,Croydon South,London,82010,57712,hold,0.59
+E14000657,Dagenham and Rainham,London,69049,43015,hold,12.53
+E14000658,Darlington,North East,65832,41141,hold,0.11
+E14000659,Dartford,South East,76686,52418,hold,1.16
+E14000660,Daventry,East Midlands,72753,52518,hold,0.31
+E14000661,Denton and Reddish,North West,66574,38681,hold,0.53
+E14000662,Derby North,East Midlands,64739,44745,gain,0.73
+E14000663,Derby South,East Midlands,70247,40820,hold,3.38
+E14000664,Derbyshire Dales,East Midlands,63470,47361,hold,1.54
+E14000665,Devizes,South West,69211,48836,hold,4.05
+E14000666,Dewsbury,Yorkshire and the Humber,79765,53630,gain,2.77
+E14000667,Don Valley,Yorkshire and the Humber,71299,42486,hold,6.32
+E14000668,Doncaster Central,Yorkshire and the Humber,71136,40420,hold,5.66
+E14000669,Doncaster North,Yorkshire and the Humber,70898,39501,hold,6.59
+E14000670,Dover,South East,72929,50224,hold,1.03
+E14000671,Dudley North,West Midlands,60718,38018,hold,4.62
+E14000672,Dudley South,West Midlands,60363,38210,hold,0.54
+E14000673,Dulwich and West Norwood,London,75244,51362,hold,3.48
+E14000674,Ealing Central and Acton,London,71238,50894,gain,4.21
+E14000675,Ealing North,London,73836,48510,hold,2.95
+E14000676,Ealing Southall,London,65495,43321,hold,10.79
+E14000677,Easington,North East,61675,34624,hold,5.99
+E14000678,East Devon,South West,74224,54717,hold,
+E14000679,East Ham,London,87378,52290,hold,5.13
+E14000680,East Hampshire,South East,72600,51649,hold,2.61
+E14000681,East Surrey,South East,79654,56103,hold,4.73
+E14000682,East Worthing and Shoreham,South East,74272,49898,hold,0.9
+E14000683,East Yorkshire,Yorkshire and the Humber,81030,49991,hold,1.35
+E14000684,Eastbourne,South East,78262,52907,gain,3.99
+E14000685,Eastleigh,South East,79609,55505,gain,11.84
+E14000686,Eddisbury,North West,68636,47352,hold,1.36
+E14000687,Edmonton,London,66015,41338,hold,6.75
+E14000688,Ellesmere Port and Neston,North West,68134,46727,hold,1.82
+E14000689,Elmet and Rothwell,Yorkshire and the Humber,79143,57797,hold,3.29
+E14000690,Eltham,London,63998,43157,hold,1.14
+E14000691,Enfield North,London,68119,46137,gain,3.08
+E14000692,Enfield Southgate,London,64938,45812,hold,3.41
+E14000693,Epping Forest,East Anglia,73545,49348,hold,6.79
+E14000694,Epsom and Ewell,South East,78633,57143,hold,0.75
+E14000695,Erewash,East Midlands,71937,48322,hold,1.08
+E14000696,Erith and Thamesmead,London,69787,42617,hold,4.46
+E14000697,Esher and Walton,South East,79894,56976,hold,1
+E14000698,Exeter,South West,76964,54018,hold,4.04
+E14000699,Fareham,South East,77233,54700,hold,5.23
+E14000700,Faversham and Mid Kent,South East,69523,45803,hold,8.08
+E14000701,Feltham and Heston,London,82328,49405,hold,6.8
+E14000702,Filton and Bradley Stoke,South West,70722,49101,hold,2.86
+E14000703,Finchley and Golders Green,London,72049,50759,hold,0.58
+E14000704,Folkestone and Hythe,South East,83612,55010,hold,9.87
+E14000705,Forest of Dean,South West,69882,49520,hold,0.25
+E14000706,Fylde,North West,65679,43557,hold,1.07
+E14000707,Gainsborough,East Midlands,73212,49261,hold,1.14
+E14000708,Garston and Halewood,North West,74063,48983,hold,6.01
+E14000709,Gateshead,North East,63910,38009,hold,6.18
+E14000710,Gedling,East Midlands,70046,47998,hold,1.18
+E14000711,Gillingham and Rainham,South East,72609,47078,hold,1.91
+E14000712,Gloucester,South West,82949,52575,hold,4.51
+E14000713,Gosport,South East,73271,47665,hold,6.36
+E14000714,Grantham and Stamford,East Midlands,81151,53755,hold,5.96
+E14000715,Gravesham,South East,74307,50149,hold,1.49
+E14000716,Great Grimsby,Yorkshire and the Humber,58484,33731,hold,5.65
+E14000717,Great Yarmouth,East Anglia,69793,44469,hold,1.95
+E14000718,Greenwich and Woolwich,London,73315,46716,hold,0.46
+E14000719,Guildford,South East,76554,53986,hold,13.79
+E14000720,Hackney North and Stoke Newington,London,83195,49887,hold,3.85
+E14000721,Hackney South and Shoreditch,London,79962,47580,hold,4.34
+E14000722,Halesowen and Rowley Regis,West Midlands,74203,43818,hold,1.22
+E14000723,Halifax,Yorkshire and the Humber,70461,43753,hold,1.2
+E14000724,Haltemprice and Howden,Yorkshire and the Humber,71205,48757,hold,0.68
+E14000725,Halton,North West,72818,45023,hold,3.77
+E14000726,Hammersmith,London,72254,47960,hold,3.06
+E14000727,Hampstead and Kilburn,London,80241,53964,hold,1.01
+E14000728,Harborough,East Midlands,77760,52471,hold,0.59
+E14000729,Harlow,East Anglia,67994,44251,hold,3.82
+E14000730,Harrogate and Knaresborough,Yorkshire and the Humber,77379,53376,hold,14.36
+E14000731,Harrow East,London,70980,49000,hold,1.31
+E14000732,Harrow West,London,69643,46603,hold,1.04
+E14000733,Hartlepool,North East,69516,39490,hold,13.93
+E14000734,Harwich and North Essex,East of England,69289,48432,hold,2.17
+E14000735,Hastings and Rye,South East,75095,50927,hold,2.71
+E14000736,Havant,South East,70573,44828,hold,7.05
+E14000737,Hayes and Harlington,London,74875,45056,hold,4.73
+E14000738,Hazel Grove,North West,63098,43219,gain,15.17
+E14000739,Hemel Hempstead,East Anglia,74616,49633,hold,0.05
+E14000740,Hemsworth,Yorkshire and the Humber,72714,42406,hold,3.01
+E14000741,Hendon,London,74658,49630,hold,3.64
+E14000742,Henley,South East,78243,55236,hold,0.34
+E14000743,Hereford and Herefordshire South,West Midlands,70711,47257,hold,3.55
+E14000744,Hertford and Stortford,East Anglia,78906,56277,hold,0.86
+E14000745,Hertsmere,East Anglia,73753,50091,hold,0.19
+E14000746,Hexham,North East,60614,43345,hold,1.76
+E14000747,Heywood and Middleton,North West,79989,48538,hold,13.28
+E14000748,High Peak,East Midlands,73336,50789,hold,0.17
+E14000749,Hitchin and Harpenden,East Anglia,74839,55375,hold,2.42
+E14000750,Holborn and St. Pancras,London,86864,54917,hold,2.65
+E14000751,Hornchurch and Upminster,London,79331,55236,hold,11.22
+E14000752,Hornsey and Wood Green,London,79241,57785,gain,15.81
+E14000753,Horsham,South East,78181,56925,hold,2.17
+E14000754,Houghton and Sunderland South,North East,68316,38489,hold,7.01
+E14000755,Hove,South East,73505,52214,gain,3.06
+E14000756,Huddersfield,Yorkshire and the Humber,65265,40486,hold,3.55
+E14000757,Huntingdon,East Anglia,82404,55926,hold,1.57
+E14000758,Hyndburn,North West,68341,42887,hold,1.51
+E14000759,Ilford North,London,78162,48932,gain,6.35
+E14000760,Ilford South,London,95023,51912,hold,8.02
+E14000761,Ipswich,East Anglia,74498,48694,hold,1.62
+E14000762,Isle of Wight,South East,108804,70300,hold,11.87
+E14000763,Islington North,London,73325,49234,hold,1.39
+E14000764,Islington South and Finsbury,London,68127,44270,hold,2.92
+E14000765,Jarrow,North East,63882,38567,hold,
+E14000766,Keighley,Yorkshire and the Humber,68865,49123,hold,0.03
+E14000767,Kenilworth and Southam,West Midlands,65245,48791,hold,1.91
+E14000768,Kensington,London,61333,34828,gain,1.69
+E14000769,Kettering,East Midlands,70155,47218,hold,3.72
+E14000770,Kingston and Surbiton,London,81277,59253,gain,9.01
+E14000771,Kingston upon Hull East,Yorkshire and the Humber,65606,35144,hold,5.27
+E14000772,Kingston upon Hull North,Yorkshire and the Humber,63650,35336,hold,0.7
+E14000773,Kingston upon Hull West and Hessle,Yorkshire and the Humber,59008,31803,hold,3.88
+E14000774,Kingswood,South West,67992,48125,hold,6.81
+E14000775,Knowsley,North West,79109,50728,hold,0
+E14000776,Lancaster and Fleetwood,North West,60883,41738,gain,1.91
+E14000777,Leeds Central,Yorkshire and the Humber,81799,45048,hold,4.27
+E14000778,Leeds East,Yorkshire and the Humber,64754,38196,hold,2.8
+E14000779,Leeds North East,Yorkshire and the Humber,69097,48291,hold,2.73
+E14000780,Leeds North West,Yorkshire and the Humber,61974,43357,hold,9.9
+E14000781,Leeds West,Yorkshire and the Humber,64950,38423,hold,2.67
+E14000782,Leicester East,East Midlands,75430,48068,hold,4.42
+E14000783,Leicester South,East Midlands,73518,45962,hold,7.32
+E14000784,Leicester West,East Midlands,63204,34522,hold,4.83
+E14000785,Leigh,North West,75974,45123,hold,2.07
+E14000786,Lewes,South East,69481,50540,gain,8.7
+E14000787,Lewisham East,London,73428,42923,hold,6.97
+E14000788,Lewisham West and Penge,London,72289,48125,hold,5.42
+E14000789,Lewisham Deptford,London,73426,47426,hold,2.57
+E14000790,Leyton and Wanstead,London,64746,40705,hold,7.64
+E14000791,Lichfield,West Midlands,83339,51467,hold,0.39
+E14000792,Lincoln,East Midlands,74121,46852,hold,0.38
+E14000793,Liverpool Riverside,North West,70950,44263,hold,0.26
+E14000794,Liverpool Walton,North West,62868,38403,hold,1.49
+E14000795,Liverpool Wavertree,North West,61731,40974,hold,6.84
+E14000796,Liverpool West Derby,North West,63875,41031,hold,2.8
+E14000797,Loughborough,East Midlands,72644,52020,hold,5.28
+E14000798,Louth and Horncastle,East Midlands,74280,50336,hold,7.78
+E14000799,Ludlow,West Midlands,66423,48063,hold,4.52
+E14000800,Luton North,East Anglia,66533,42571,hold,2.42
+E14000801,Luton South,East Anglia,67234,42216,hold,4.01
+E14000802,Macclesfield,North West,71580,49598,hold,1.61
+E14000803,Maidenhead,South East,74963,53855,hold,0.79
+E14000804,Maidstone and The Weald,South East,73181,50010,hold,4.69
+E14000805,Makerfield,North West,74370,44788,hold,
+E14000806,Maldon,East of England,69455,48045,hold,4.4
+E14000807,Manchester Central,North West,98435,45331,hold,3.39
+E14000808,Manchester Gorton,North West,72959,42019,hold,4.96
+E14000809,Manchester Withington,North West,80590,49966,gain,16.99
+E14000810,Mansfield,East Midlands,77534,47193,hold,0.58
+E14000811,Meon Valley,South East,72738,51717,hold,3.55
+E14000812,Meriden,West Midlands,81079,52603,hold,2.29
+E14000813,Mid Bedfordshire,East Anglia,81144,58060,hold,1.23
+E14000814,Mid Derbyshire,East Midlands,67576,47729,hold,1.46
+E14000815,Mid Dorset and North Poole,South West,68917,46499,gain,11.61
+E14000816,Mid Norfolk,East Anglia,76975,52212,hold,5.44
+E14000817,Mid Sussex,South East,79520,57492,hold,0.94
+E14000818,Mid Worcestershire,West Midlands,73069,52225,hold,4.61
+E14000819,Middlesbrough,North East,61868,32706,hold,2.02
+E14000820,Middlesbrough South and East Cleveland,North East,71153,45677,hold,0.67
+E14000821,Milton Keynes North,South East,84892,57692,hold,0.14
+E14000822,Milton Keynes South,South East,87968,59019,hold,2.71
+E14000823,Mitcham and Morden,London,68474,45142,hold,3.14
+E14000824,Mole Valley,South East,74317,55140,hold,8.67
+E14000825,Morecambe and Lunesdale,North West,66476,43242,hold,4.31
+E14000826,Morley and Outwood,Yorkshire and the Humber,76179,48250,gain,1.56
+E14000827,New Forest East,South East,72720,42447,hold,9.58
+E14000828,New Forest West,South East,68465,47410,hold,4.75
+E14000829,Newark,East Midlands,73724,52302,hold,1.9
+E14000830,Newbury,South East,79058,57300,hold,12.56
+E14000831,Newcastle upon Tyne Central,North East,61061,35085,hold,4.76
+E14000832,Newcastle upon Tyne East,North East,74112,39222,hold,1.43
+E14000833,Newcastle upon Tyne North,North East,67267,44891,hold,0.05
+E14000834,Newcastle-under-Lyme,West Midlands,66752,42997,hold,1.04
+E14000835,Newton Abbot,South West,69743,48199,hold,11.17
+E14000836,"Normanton, Pontefract and Castleford",Yorkshire and the Humber,82592,45897,hold,
+E14000837,North Cornwall,South West,67192,48255,gain,10.92
+E14000838,North Devon,South West,74737,52320,gain,12.3
+E14000839,North Dorset,South West,74576,53385,hold,3.15
+E14000840,North Durham,North East,65373,40146,hold,2.25
+E14000841,North East Bedfordshire,East Anglia,83551,58672,hold,2.02
+E14000842,North East Cambridgeshire,East Anglia,82990,51780,hold,6.54
+E14000843,North East Derbyshire,East Midlands,71456,47948,hold,0.64
+E14000844,North East Hampshire,South East,74025,54000,hold,10.14
+E14000845,North East Hertfordshire,East Anglia,73944,52287,hold,0.3
+E14000846,Somerset North East,South West,69380,51102,hold,7.67
+E14000847,Herefordshire North,West Midlands,66683,48023,hold,2.23
+E14000848,North Norfolk,East Anglia,68958,49414,hold,7.61
+E14000849,North Shropshire,West Midlands,78910,52563,hold,0.98
+E14000850,Somerset North,South West,80115,58942,hold,0.52
+E14000851,North Swindon,South West,81005,52242,hold,4.26
+E14000852,North Thanet,South East,70504,47053,hold,11.45
+E14000853,North Tyneside,North East,79286,46818,hold,2.21
+E14000854,North Warwickshire,West Midlands,70152,47381,hold,3.08
+E14000855,North West Cambridgeshire,East Anglia,91783,61100,hold,4.9
+E14000856,North West Durham,North East,69817,42818,hold,0.59
+E14000857,North West Hampshire,South East,79223,55195,hold,4.88
+E14000858,North West Leicestershire,East Midlands,72194,51548,hold,3.8
+E14000859,North West Norfolk,East Anglia,72400,47371,hold,5.74
+E14000860,North Wiltshire,South West,67858,50556,hold,13.13
+E14000861,Northampton North,East Midlands,59147,39411,hold,1.71
+E14000862,Northampton South,East Midlands,61284,38884,hold,2.82
+E14000863,Norwich North,East Anglia,65136,43592,hold,0.54
+E14000864,Norwich South,East Anglia,74875,48463,gain,13.15
+E14000865,Nottingham East,East Midlands,60464,35209,hold,6.05
+E14000866,Nottingham North,East Midlands,65918,35343,hold,4.91
+E14000867,Nottingham South,East Midlands,68987,43465,hold,5.81
+E14000868,Nuneaton,West Midlands,68032,45749,hold,3.02
+E14000869,Old Bexley and Sidcup,London,66035,46748,hold,0.53
+E14000870,Oldham East and Saddleworth,North West,72005,44483,hold,4.04
+E14000871,Oldham West and Royton,North West,72341,43137,hold,4.03
+E14000872,Orpington,London,68129,49032,hold,8.09
+E14000873,Oxford East,South East,78974,50689,hold,3.25
+E14000874,Oxford West and Abingdon,South East,79767,57247,hold,8.21
+E14000875,Pendle,North West,64657,44448,hold,2.15
+E14000876,Penistone and Stocksbridge,Yorkshire and the Humber,71048,46854,hold,3.9
+E14000877,Penrith and The Border,North West,65209,43921,hold,2.42
+E14000878,Peterborough,East Anglia,72521,47075,hold,3.37
+E14000879,Plymouth Moor View,South West,69146,42606,gain,3.12
+E14000880,Plymouth Sutton and Devonport,South West,69146,47963,hold,0.76
+E14000881,Poole,South West,72557,47393,hold,4.45
+E14000882,Poplar and Limehouse,London,82076,51044,hold,10.12
+E14000883,Portsmouth North,South East,73105,45390,hold,3.35
+E14000884,Portsmouth South,South East,71639,41903,gain,12.55
+E14000885,Preston,North West,59981,33469,hold,4.79
+E14000886,Pudsey,Yorkshire and the Humber,70533,50927,hold,2.73
+E14000887,Putney,London,63918,42813,hold,0.44
+E14000888,Rayleigh and Wickford,East of England,77870,53220,hold,10.6
+E14000889,Reading East,South East,74651,50494,hold,2.09
+E14000890,Reading West,South East,72302,48404,hold,0.55
+E14000891,Redcar,North East,64825,40919,gain,18.91
+E14000892,Redditch,West Midlands,65529,44098,hold,1.39
+E14000893,Reigate,South East,73429,51349,hold,2.86
+E14000894,Ribble Valley,North West,77873,52243,hold,1.1
+E14000895,Richmond (Yorks),Yorkshire and the Humber,83451,53999,hold,
+E14000896,Richmond Park,London,77297,59101,hold,16.02
+E14000897,Rochdale,North West,79170,45430,hold,2.32
+E14000898,Rochester and Strood,South East,79000,52516,gain,
+E14000899,Rochford and Southend East,East Anglia,71935,43608,hold,2.41
+E14000900,Romford,London,72594,49178,hold,11.71
+E14000901,Romsey and Southampton North,South East,66519,48398,hold,14.05
+E14000902,Rossendale and Darwen,North West,84011,49024,hold,1
+E14000903,Rother Valley,Yorkshire and the Humber,74275,47019,hold,9.92
+E14000904,Rotherham,Yorkshire and the Humber,63698,37823,hold,8.19
+E14000905,Rugby,West Midlands,79557,49006,hold,4.23
+E14000906,"Ruislip, Northwood and Pinner",London,73219,51222,hold,0.76
+E14000907,Runnymede and Weybridge,South East,73744,50052,hold,0.86
+E14000908,Rushcliffe,East Midlands,73294,55164,hold,2.69
+E14000909,Rutland and Melton,East Midlands,79789,54603,hold,3.4
+E14000910,Saffron Walden,East Anglia,80615,57563,hold,3.98
+E14000911,Salford and Eccles,North West,74290,43261,hold,4.67
+E14000912,Salisbury,South West,69590,50705,hold,0.66
+E14000913,Scarborough and Whitby,Yorkshire and the Humber,73511,47739,hold,1.75
+E14000914,Scunthorpe,Yorkshire and the Humber,64010,36941,hold,0.8
+E14000915,Sedgefield,North East,62860,38716,hold,1.97
+E14000916,Sefton Central,North West,67746,49021,hold,8.1
+E14000917,Selby and Ainsty,Yorkshire and the Humber,76082,52804,hold,0.98
+E14000918,Sevenoaks,South East,70741,50124,hold,7.1
+E14000919,Sheffield Central,Yorkshire and the Humber,77014,44173,hold,0.8
+E14000920,Sheffield South East,Yorkshire and the Humber,70422,41685,hold,7.31
+E14000921,Sheffield Brightside and Hillsborough,Yorkshire and the Humber,73090,40053,hold,8.21
+E14000922,Sheffield Hallam,Yorkshire and the Humber,73658,55481,hold,16.55
+E14000923,Sheffield Heeley,Yorkshire and the Humber,69265,42048,hold,4.02
+E14000924,Sherwood,East Midlands,73334,49947,hold,3.68
+E14000925,Shipley,Yorkshire and the Humber,70466,50542,hold,0.54
+E14000926,Shrewsbury and Atcham,West Midlands,76460,54102,hold,2.85
+E14000927,Sittingbourne and Sheppey,South East,76018,49378,hold,10.02
+E14000928,Skipton and Ripon,Yorkshire and the Humber,76243,54559,hold,1.25
+E14000929,Sleaford and North Hykeham,East Midlands,88188,61944,hold,2.11
+E14000930,Slough,South East,86366,48275,hold,1.81
+E14000931,Solihull,West Midlands,77251,54779,gain,11.94
+E14000932,Somerton and Frome,South West,83527,60309,gain,18.3
+E14000933,Basildon South and Thurrock East,East of England,73210,45593,hold,10.55
+E14000934,South Cambridgeshire,East Anglia,84132,61540,hold,1.87
+E14000935,South Derbyshire,East Midlands,74395,50762,hold,4.23
+E14000936,South Dorset,South West,71974,48597,hold,4.94
+E14000937,South East Cambridgeshire,East Anglia,84570,59506,hold,8.99
+E14000938,South East Cornwall,South West,71071,50497,hold,13.58
+E14000939,South Holland and The Deepings,East Midlands,77015,49207,hold,7.43
+E14000940,Leicestershire South,East Midlands,76877,53926,hold,1.3
+E14000941,South Norfolk,East Anglia,78885,57123,hold,0.14
+E14000942,Northamptonshire South ,East Midlands,85092,60862,hold,2.75
+E14000943,South Ribble,North West,76489,52370,hold,0.28
+E14000944,South Shields,North East,62730,36265,hold,
+E14000945,South Staffordshire,West Midlands,84243,49598,hold,4.09
+E14000946,South Suffolk,East Anglia,73220,51907,hold,0.19
+E14000947,South Swindon,South West,73956,49263,hold,2.11
+E14000948,South Thanet,South East,70182,49401,hold,18.4
+E14000949,South West Bedfordshire,East Anglia,79664,51304,hold,0.75
+E14000950,South West Devon,South West,71035,50372,hold,1.82
+E14000951,South West Hertfordshire,East Anglia,79666,57267,hold,1.05
+E14000952,South West Norfolk,East Anglia,76970,50110,hold,7.22
+E14000953,South West Surrey,South East,77050,57154,hold,3.07
+E14000954,Wiltshire South West,South West,73030,51643,hold,5.5
+E14000955,Southampton Itchen,South East,72309,44684,gain,2.84
+E14000956,Southampton Test,South East,70285,43652,hold,1.63
+E14000957,Southend West,East Anglia,66876,44509,hold,0.57
+E14000958,Southport,North West,67328,44101,hold,5.38
+E14000959,Spelthorne,South East,71592,49079,hold,4.87
+E14000960,St Albans,East Anglia,72507,54433,hold,0.11
+E14000961,St Austell and Newquay,South West,76607,50361,gain,9.5
+E14000962,St Helens North,North West,75262,46256,hold,3.99
+E14000963,St Helens South & Whiston,North West,77720,48397,hold,4.42
+E14000964,St Ives,South West,65570,48312,gain,4.43
+E14000965,Stafford,West Midlands,68705,48767,hold,3.98
+E14000966,Staffordshire Moorlands,West Midlands,63104,42587,hold,4.31
+E14000967,Stalybridge and Hyde,North West,69081,41034,hold,4.79
+E14000968,Stevenage,East Anglia,70597,47799,hold,1.18
+E14000969,Stockport,North West,63931,39649,hold,4.02
+E14000970,Stockton North,North East,66126,39571,hold,2.12
+E14000971,Stockton South,North East,75109,51797,hold,4.54
+E14000972,Stoke-on-Trent Central,West Midlands,62250,31084,hold,8.92
+E14000973,Stoke-on-Trent North,West Midlands,72689,38654,hold,3.99
+E14000974,Stoke-on-Trent South,West Midlands,68788,39107,hold,1.94
+E14000975,Stone,West Midlands,67339,47031,hold,2.33
+E14000976,Stourbridge,West Midlands,69077,46029,hold,1.81
+E14000977,Stratford-on-Avon,West Midlands,70914,51459,hold,1.72
+E14000978,Streatham,London,78673,49933,hold,1.72
+E14000979,Stretford and Urmston,North West,69490,46386,hold,2.65
+E14000980,Stroud,South West,80522,60819,hold,2.88
+E14000981,Suffolk Coastal,East Anglia,78782,55594,hold,1.77
+E14000982,Sunderland Central,North East,72933,41762,hold,5.47
+E14000983,Surrey Heath,South East,79515,54431,hold,2.88
+E14000984,Sutton and Cheam,London,69160,49905,gain,5.59
+E14000985,Sutton Coldfield,West Midlands,74956,50854,hold,0.67
+E14000986,Tamworth,West Midlands,71912,47174,hold,5.42
+E14000987,Tatton,North West,64512,45298,hold,1.47
+E14000988,Taunton,South West,81830,57887,gain,16.81
+E14000989,Telford,West Midlands,66166,40645,gain,2.08
+E14000990,Tewkesbury,South West,78500,55344,hold,2.04
+E14000991,Cotswold,South West,78292,56667,hold,7.22
+E14000992,The Wrekin,West Midlands,65942,45437,hold,1.54
+E14000993,Thirsk and Malton,Yorkshire and the Humber,77451,52365,hold,1.08
+E14000994,Thornbury and Yate,South West,65884,48570,gain,8.92
+E14000995,Thurrock,East Anglia,77569,49574,hold,0.44
+E14000996,Tiverton and Honiton,South West,76270,53743,hold,3.38
+E14000997,Tonbridge and Malling,South East,74877,53670,hold,4.99
+E14000998,Tooting,London,76778,53529,hold,0.16
+E14000999,Torbay,South West,76259,48079,gain,7.56
+E14001000,Torridge and West Devon,South West,78582,64616,hold,12.07
+E14001001,Totnes,South West,68630,47097,hold,0.5
+E14001002,Tottenham,London,70809,42558,hold,5.49
+E14001003,Truro and Falmouth,South West,73601,51544,hold,13.13
+E14001004,Tunbridge Wells,South East,73429,51428,hold,0.47
+E14001005,Twickenham,London,80242,62004,gain,11.79
+E14001006,Tynemouth,North East,77523,53495,hold,2.25
+E14001007,Uxbridge and Ruislip South,London,70634,44811,hold,0.51
+E14001008,Vauxhall,London,81698,47941,hold,0.87
+E14001009,Wakefield,Yorkshire and the Humber,70521,42973,hold,1.23
+E14001010,Wallasey,North West,65495,43366,hold,8.64
+E14001011,Walsall North,West Midlands,67080,36883,hold,1.26
+E14001012,Walsall South,West Midlands,67743,41838,hold,5.03
+E14001013,Walthamstow,London,67289,41796,hold,8.82
+E14001014,Wansbeck,North East,63273,38528,hold,0.03
+E14001015,Wantage,South East,83516,58320,hold,0.37
+E14001016,Warley,West Midlands,63740,37829,hold,5.38
+E14001017,Warrington North,North West,72632,45419,hold,2.17
+E14001018,Warrington South,North West,85566,59353,hold,0.9
+E14001019,Warwick and Leamington,West Midlands,71570,50581,hold,2.95
+E14001020,Washington and Sunderland West,North East,68188,37257,hold,6.92
+E14001021,Watford,East Anglia,84270,56149,hold,4.61
+E14001022,Waveney,East Anglia,80171,52196,hold,1.55
+E14001023,Wealden,South East,80252,57017,hold,5.12
+E14001024,Weaver Vale,North West,68407,46867,hold,0.27
+E14001025,Wellingborough,East Midlands,77127,50430,hold,6.28
+E14001026,Wells,South West,79405,56904,gain,7.38
+E14001027,Welwyn Hatfield,East Anglia,73264,50205,hold,5.69
+E14001028,Wentworth and Dearne,Yorkshire and the Humber,74283,43189,hold,5.23
+E14001029,West Bromwich East,West Midlands,63641,37492,hold,3.81
+E14001030,West Bromwich West,West Midlands,65533,35026,hold,9.26
+E14001031,West Dorset,South West,78427,56458,hold,10.86
+E14001032,West Ham,London,90634,52793,hold,2.51
+E14001033,West Lancashire,North West,70945,49676,hold,3.93
+E14001034,West Suffolk,East Anglia,76197,49232,hold,6.85
+E14001035,West Worcestershire,West Midlands,73415,54100,hold,2.33
+E14001036,Westminster North,London,62346,39514,hold,0.18
+E14001037,Westmorland and Lonsdale,North West,65857,48929,hold,2.76
+E14001038,Weston-Super-Mare,South West,79493,52552,hold,1.83
+E14001039,Wigan,North West,76068,45293,hold,3.84
+E14001040,Wimbledon,London,65853,48422,hold,0.38
+E14001041,Winchester,South East,74119,55316,hold,12.56
+E14001042,Windsor,South East,74119,50160,hold,0.47
+E14001043,Wirral South,North West,56956,41837,hold,4.83
+E14001044,Wirral West,North West,55377,41858,gain,3.59
+E14001045,Witham,East of England,67090,47168,hold,2.11
+E14001046,Witney,South East,79767,58482,hold,1.4
+E14001047,Woking,South East,74287,51964,hold,1.1
+E14001048,Wokingham,South East,77881,55999,hold,0.3
+E14001049,Wolverhampton North East,West Midlands,61073,34003,hold,4.52
+E14001050,Wolverhampton South East,West Midlands,62561,34764,hold,6
+E14001051,Wolverhampton South West,West Midlands,60375,40209,gain,1.86
+E14001052,Worcester,West Midlands,71003,49723,hold,2.63
+E14001053,Workington,North West,58672,38463,hold,0.26
+E14001054,Worsley and Eccles South,North West,72174,42048,hold,1.87
+E14001055,Worthing West,South East,75617,50763,hold,6.29
+E14001056,Wycombe,South East,76371,51439,hold,1.24
+E14001057,Wyre and Preston North,North West,70697,49893,hold,1.36
+E14001058,Wyre Forest,West Midlands,77451,49440,hold,1.72
+E14001059,Wythenshawe and Sale East,North West,75980,43263,hold,2.92
+E14001060,Yeovil,South West,82446,56933,gain,16.07
+E14001061,York Central,Yorkshire and the Humber,75351,47677,hold,0.1
+E14001062,York Outer,Yorkshire and the Humber,78561,53903,hold,0.77
+N06000001,Belfast East,Northern Ireland,63154,39682,gain,5.49
+N06000002,Belfast North,Northern Ireland,68552,40593,hold,3.55
+N06000003,Belfast South,Northern Ireland,64912,38957,hold,7.5
+N06000004,Belfast West,Northern Ireland,62685,35329,hold,
+N06000005,East Antrim,Northern Ireland,62810,33497,hold,
+N06000006,East Londonderry,Northern Ireland,66925,34714,hold,3.58
+N06000007,Fermanagh and South Tyrone,Northern Ireland,70106,50864,gain,
+N06000008,Foyle,Northern Ireland,70035,37002,hold,1.8
+N06000009,Lagan Valley,Northern Ireland,71140,39795,hold,
+N06000010,Mid Ulster,Northern Ireland,67831,40922,hold,
+N06000011,Newry and Armagh,Northern Ireland,77622,49877,hold,
+N06000012,North Antrim,Northern Ireland,75874,41907,hold,1.03
+N06000013,North Down,Northern Ireland,64207,35947,hold,
+N06000014,South Antrim,Northern Ireland,67423,36523,gain,
+N06000015,South Down,Northern Ireland,75215,42697,hold,2.98
+N06000016,Strangford,Northern Ireland,64286,33924,hold,
+N06000017,Upper Bann,Northern Ireland,80052,47219,hold,
+N06000018,West Tyrone,Northern Ireland,63854,38654,hold,1.32
+S14000001,Aberdeen North,Scotland,67745,43936,gain,26.33
+S14000002,Aberdeen South,Scotland,68056,48551,gain,19.78
+S14000003,Airdrie and Shotts,Scotland,66715,44286,gain,27.22
+S14000004,Angus,Scotland,65792,44485,hold,8.3
+S14000005,Argyll and Bute,Scotland,68875,51883,gain,14.5
+S14000006,"Ayr, Carrick and Cumnock",Scotland,72985,52209,gain,25.34
+S14000007,Banff and Buchan,Scotland,68609,45629,hold,10.48
+S14000008,"Berwickshire, Roxburgh and Selkirk",Scotland,74179,55038,gain,27.04
+S14000009,"Caithness, Sutherland and Easter Ross",Scotland,47558,34186,gain,16.73
+S14000010,Central Ayrshire,Scotland,69982,50773,gain,27.71
+S14000011,"Coatbridge, Chryston and Bellshill",Scotland,73813,50698,gain,36.22
+S14000012,"Cumbernauld, Kilsyth and Kirkintilloch East",Scotland,67009,49382,gain,31.65
+S14000013,Dumfries and Galloway,Scotland,75249,56602,gain,25.16
+S14000014,"Dumfriesshire, Clydesdale and Tweeddale",Scotland,68483,52134,hold,12.87
+S14000015,Dundee East,Scotland,66960,48185,hold,17.64
+S14000016,Dundee West,Scotland,66287,44714,gain,28.91
+S14000017,Dunfermline and West Fife,Scotland,78037,55890,gain,27.07
+S14000018,East Dunbartonshire,Scotland,66966,54871,gain,16.05
+S14000019,"East Kilbride, Strathaven and Lesmahagow",Scotland,83071,60339,gain,27.93
+S14000020,East Lothian,Scotland,79481,59014,gain,20.04
+S14000021,East Renfrewshire,Scotland,69982,56730,gain,24.23
+S14000022,Edinburgh East,Scotland,66178,47089,gain,21.18
+S14000023,Edinburgh North and Leith,Scotland,80978,58008,gain,18.73
+S14000024,Edinburgh South,Scotland,65846,49286,hold,10.86
+S14000025,Edinburgh South West,Scotland,72178,51602,gain,23.22
+S14000026,Edinburgh West,Scotland,71749,54858,gain,14.3
+S14000027,Na h-Eileanan an Iar,Scotland,21744,15938,hold,6.46
+S14000028,Falkirk,Scotland,83380,60340,gain,24.05
+S14000029,Glasgow Central,Scotland,70945,39318,gain,27
+S14000030,Glasgow East,Scotland,70378,42417,gain,30.65
+S14000031,Glasgow North,Scotland,58875,36922,gain,28.88
+S14000032,Glasgow North East,Scotland,66678,37857,gain,39.28
+S14000033,Glasgow North West,Scotland,68418,43854,gain,31.21
+S14000034,Glasgow South,Scotland,74051,48778,gain,28.36
+S14000035,Glasgow South West,Scotland,66209,40921,gain,35.24
+S14000036,Glenrothes,Scotland,69781,47598,gain,34.9
+S14000037,Gordon,Scotland,79393,58161,gain,14.39
+S14000038,Inverclyde,Scotland,59350,44607,gain,31.63
+S14000039,"Inverness, Nairn, Badenoch and Strathspey",Scotland,77268,57613,gain,20.39
+S14000040,Kilmarnock and Loudoun,Scotland,75233,53903,gain,25.95
+S14000041,Kirkcaldy and Cowdenbeath,Scotland,75941,52892,gain,34.55
+S14000042,Lanark and Hamilton East,Scotland,78846,55258,gain,23.61
+S14000043,Linlithgow and East Falkirk,Scotland,86955,61597,gain,22.7
+S14000044,Livingston,Scotland,82373,57547,gain,25.9
+S14000045,Midlothian,Scotland,67875,48331,gain,23.39
+S14000046,Moray,Scotland,71685,49280,hold,2.38
+S14000047,Motherwell and Wishaw,Scotland,70269,48237,gain,33.81
+S14000048,North Ayrshire and Arran,Scotland,75772,53869,gain,23.33
+S14000049,North East Fife,Scotland,62003,45263,gain,19.87
+S14000050,Ochil and South Perthshire,Scotland,77370,57871,gain,13.92
+S14000051,Orkney and Shetland,Scotland,34551,22728,hold,23.91
+S14000052,Paisley and Renfrewshire North,Scotland,66206,50462,gain,26.47
+S14000053,Paisley and Renfrewshire South,Scotland,61281,46226,gain,26.92
+S14000054,Perth and North Perthshire,Scotland,72447,54200,hold,4.36
+S14000055,"Ross, Skye and Lochaber",Scotland,54169,41811,gain,24.89
+S14000056,Rutherglen and Hamilton West,Scotland,82701,57615,gain,31.01
+S14000057,Stirling,Scotland,67236,52135,gain,22.3
+S14000058,West Aberdeenshire and Kincardine,Scotland,73445,55196,gain,21.46
+S14000059,West Dunbartonshire,Scotland,69193,51141,gain,34.45
+W07000049,Aberavon,Wales,49821,31523,hold,8.6
+W07000058,Aberconwy,Wales,45540,30148,hold,0.96
+W07000043,Alyn and Deeside,Wales,62016,41314,hold,0.39
+W07000057,Arfon,Wales,40492,26837,hold,4.04
+W07000072,Blaenau Gwent,Wales,51332,31683,hold,5.4
+W07000068,Brecon and Radnorshire,Wales,54311,40074,gain,11.19
+W07000073,Bridgend,Wales,59998,39473,hold,0.48
+W07000076,Caerphilly,Wales,62793,40283,hold,8.61
+W07000050,Cardiff Central,Wales,57454,38646,gain,12.77
+W07000051,Cardiff North,Wales,67193,51151,hold,1.89
+W07000080,Cardiff South and Penarth,Wales,75714,46667,hold,2.68
+W07000079,Cardiff West,Wales,66758,43792,hold,1.95
+W07000067,Carmarthen East and Dinefwr,Wales,55750,39399,hold,2.53
+W07000066,Carmarthen West and South Pembrokeshire,Wales,57755,40350,hold,3.28
+W07000064,Ceredigion,Wales,54215,37416,hold,6.78
+W07000062,Clwyd South,Wales,54996,35064,hold,0.66
+W07000059,Clwyd West,Wales,58657,38028,hold,0.43
+W07000070,Cynon Valley,Wales,51421,30472,hold,0.66
+W07000042,Delyn,Wales,53639,37457,hold,0.84
+W07000061,Dwyfor Meirionnydd,Wales,44395,28913,hold,1.92
+W07000046,Gower,Wales,61820,42758,gain,3.25
+W07000077,Islwyn,Wales,55075,35411,hold,8.55
+W07000045,Llanelli,Wales,59314,38574,hold,2.92
+W07000071,Merthyr Tydfil and Rhymney,Wales,61719,32715,hold,2.88
+W07000054,Monmouth,Wales,65706,47462,hold,0.36
+W07000063,Montgomeryshire,Wales,48491,33757,hold,6.14
+W07000069,Neath,Wales,56099,37135,hold,0.31
+W07000055,Newport East,Wales,56018,35108,hold,0.3
+W07000056,Newport West,Wales,62145,40347,hold,0.11
+W07000074,Ogmore,Wales,55320,35250,hold,0.61
+W07000075,Pontypridd,Wales,58929,37882,hold,0.56
+W07000065,Preseli Pembrokeshire,Wales,57291,40556,hold,0.31
+W07000052,Rhondda,Wales,51809,31538,hold,6.77
+W07000048,Swansea East,Wales,58011,33618,hold,6.56
+W07000047,Swansea West,Wales,58776,35156,hold,3.08
+W07000053,Torfaen,Wales,61896,37937,hold,1.6
+W07000060,Vale of Clwyd,Wales,56505,35261,gain,3.87
+W07000078,Vale of Glamorgan,Wales,72187,51293,hold,2.28
+W07000044,Wrexham,Wales,50992,32719,hold,2.94
+W07000041,Ynys Mon,Wales,49944,34926,hold,3.24
