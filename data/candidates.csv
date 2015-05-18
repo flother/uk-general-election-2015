@@ -1,4 +1,4 @@
-constituency_id,party,candidate,votes,vote.share
+constituency_id,party,candidate,votes,vote_share
 W07000049,Labour,Stephen Kinnock,15416,48.9
 W07000049,UKIP,Peter Bush,4971,15.8
 W07000049,Conservative,Edward Yi He,3742,11.9
