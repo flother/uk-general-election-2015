@@ -1,0 +1,111 @@
+{
+  "name": "uk-general-election-2015",
+  "title": "Data on constituencies and candidates from the UK's general election in May 2015",
+  "homepage": "https://github.com/flother/uk-general-election-2015",
+  "version": "1.0.0",
+  "license": {
+    "name": "Creative Commons Attribution-ShareAlike 4.0",
+    "url": "http://creativecommons.org/licenses/by-sa/4.0/",
+    "id": "CC-BY-SA-4.0"
+  },
+  "sources": [
+    {
+      "name": "The Economist",
+      "web": "http://www.economist.com/uk2015data"
+    },
+    {
+      "name": "BBC",
+      "web": "http://www.bbc.com/news/election/2015/results"
+    }
+  ],
+  "resources": [
+    {
+      "name": "Constituencies",
+      "path": "data/constituencies.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "hash": "393c3cd6f51f6f3086987c834be618e0",
+      "schema": {
+        "fields": [
+          {
+            "name": "constituency_id",
+            "description": "unique code for a constituency, provided by the Office for National Statistics",
+            "type": "string"
+          },
+          {
+            "name": "name",
+            "description": "name of the constituency",
+            "type": "string"
+          },
+          {
+            "name": "region",
+            "description": "in England, the sub-national geographical region in which the constituency lies; in Scotland, Wales, and Northern Ireland, the country name",
+            "type": "string"
+          },
+          {
+            "name": "electorate",
+            "description": "number of people registered to vote in the constituency",
+            "type": "integer"
+          },
+          {
+            "name": "turnout",
+            "description": "number of people who voted in the constituency",
+            "type": "number"
+          },
+          {
+            "name": "status",
+            "description": "whether or not the candidate who won the seat came from a party different to his or her predecessor",
+            "type": "string"
+          },
+          {
+            "name": "swing",
+            "description": "extent of change in voter support since the 2010 election",
+            "type": "number"
+          }
+        ],
+        "primaryKey": "constituency_id"
+      }
+    },
+    {
+      "name": "Candidates",
+      "path": "data/candidates.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "hash": "f8b62684237390c8bfef5a96dcbdf1b7",
+      "schema": {
+        "fields": [
+          {
+            "name": "constituency_id",
+            "description": "unique code for the constituency, provided by the Office for National Statistics",
+            "type": "string"
+          },
+          {
+            "name": "party",
+            "description": "name of the political party for which the candidate is standing",
+            "type": "string"
+          },
+          {
+            "name": "candidate",
+            "description": "candidate's name",
+            "type": "string"
+          },
+          {
+            "name": "votes",
+            "description": "number of votes the candidate received",
+            "type": "integer"
+          },
+          {
+            "name": "vote_share",
+            "description": "percentage of the constituency turnout that voted for the candidate",
+            "type": "number"
+          }
+        ],
+        "primaryKey": [
+          "constituency_id",
+          "party",
+          "candidate"
+        ]
+      }
+    }
+  ]
+}
