@@ -24,7 +24,7 @@
       "path": "data/constituencies.csv",
       "format": "csv",
       "mediatype": "text/csv",
-      "hash": "393c3cd6f51f6f3086987c834be618e0",
+      "hash": "43d9dc6a1cb228f5947b2c8553add569",
       "schema": {
         "fields": [
           {
