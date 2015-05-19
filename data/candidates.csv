@@ -238,10 +238,10 @@ N06000001,Democratic Unionist Party,Gavin Robinson,19575,49.3
 N06000001,Alliance Party,Naomi Long,16978,42.8
 N06000001,Conservative,Neil Wilson,1121,2.8
 N06000001,Green Party,Ross Brown,1058,2.7
-N06000001,Sinn Fein,Niall Ó Donnghaile,823,2.1
+N06000001,Sinn Féin,Niall Ó Donnghaile,823,2.1
 N06000001,Social Democratic & Labour Party,Mary Muldoon,127,0.3
 N06000002,Democratic Unionist Party,Nigel Dodds,19096,47
-N06000002,Sinn Fein,Gerry Kelly,13770,33.9
+N06000002,Sinn Féin,Gerry Kelly,13770,33.9
 N06000002,Social Democratic & Labour Party,Alban Maginness,3338,8.2
 N06000002,Alliance Party,Jason O'Neill,2941,7.2
 N06000002,Workers Party,Gemma Weir,919,2.3
@@ -249,13 +249,13 @@ N06000002,Independent,Fra Hughes,529,1.3
 N06000003,Social Democratic & Labour Party,Alasdair McDonnell,9560,24.5
 N06000003,Democratic Unionist Party,Jonathan Bell,8654,22.2
 N06000003,Alliance Party,Paula Bradshaw,6711,17.2
-N06000003,Sinn Fein,Máirtín Ó Muilleoir,5402,13.9
+N06000003,Sinn Féin,Máirtín Ó Muilleoir,5402,13.9
 N06000003,Ulster Unionist Party,Rodney McCune,3549,9.1
 N06000003,Green Party,Clare Bailey,2238,5.7
 N06000003,UKIP,Bob Stoker,1900,4.9
 N06000003,Conservative,Ben Manton,582,1.5
 N06000003,Workers Party,Lily Kerr,361,0.9
-N06000004,Sinn Fein,Paul Maskey,19163,54.2
+N06000004,Sinn Féin,Paul Maskey,19163,54.2
 N06000004,People Before Profit,Gerry Carroll,6798,19.2
 N06000004,Social Democratic & Labour Party,Alex Attwood,3475,9.8
 N06000004,Democratic Unionist Party,Frank McCoubrey,2773,7.8
@@ -1297,7 +1297,7 @@ N06000005,Democratic Unionist Party,Sammy Wilson,12103,36.1
 N06000005,Ulster Unionist Party,Roy Beggs,6308,18.8
 N06000005,Alliance Party,Stewart Dickson,5021,15
 N06000005,UKIP,Noel Jordan,3660,10.9
-N06000005,Sinn Fein,Oliver McMullan,2314,6.9
+N06000005,Sinn Féin,Oliver McMullan,2314,6.9
 N06000005,Traditional Unionist Voice,Ruth Wilson,1903,5.7
 N06000005,Social Democratic & Labour Party,Margaret Anne McKillop,1639,4.9
 N06000005,Conservative,Alex Wilson,549,1.6
@@ -1315,7 +1315,7 @@ S14000019,UKIP,Robert Sale,1221,2
 S14000019,Liberal Democrats,Paul McGarry,1042,1.7
 S14000019,Independent,John Houston,318,0.5
 N06000006,Democratic Unionist Party,Gregory Campbell,14663,42.2
-N06000006,Sinn Fein,Caoimhe Archibald,6859,19.8
+N06000006,Sinn Féin,Caoimhe Archibald,6859,19.8
 N06000006,Ulster Unionist Party,William McCandless,5333,15.4
 N06000006,Social Democratic & Labour Party,Gerry Mullan,4268,12.3
 N06000006,Alliance Party,Yvonne Boyle,2642,7.6
@@ -1478,7 +1478,7 @@ E14000701,UKIP,Peter Dul,6209,12.6
 E14000701,Liberal Democrats,Roger Crouch,1579,3.2
 E14000701,Green Party,Tony Firkins,1390,2.8
 N06000007,Ulster Unionist Party,Tom Elliott,23608,46.4
-N06000007,Sinn Fein,Michelle Gildernew,23078,45.4
+N06000007,Sinn Féin,Michelle Gildernew,23078,45.4
 N06000007,Social Democratic & Labour Party,John Coyle,2732,5.4
 N06000007,Green Party,Tanya Jones,788,1.5
 N06000007,Alliance Party,Hannah Su,658,1.3
@@ -1512,7 +1512,7 @@ E14000705,UKIP,Steve Stanbury,8792,17.8
 E14000705,Green Party,James Greenwood,2703,5.5
 E14000705,Liberal Democrats,Chris Coleman,2630,5.3
 N06000008,Social Democratic & Labour Party,Mark Durkan,17725,47.9
-N06000008,Sinn Fein,Gearóid Ó Heára,11679,31.6
+N06000008,Sinn Féin,Gearóid Ó Heára,11679,31.6
 N06000008,Democratic Unionist Party,Gary Middleton,4573,12.4
 N06000008,Ulster Unionist Party,Julia Kee,1226,3.3
 N06000008,Alliance Party,David Hawthorne,835,2.3
@@ -2081,7 +2081,7 @@ N06000009,Alliance Party,Trevor Lunn,5544,13.9
 N06000009,Social Democratic & Labour Party,Pat Catney,2500,6.3
 N06000009,UKIP,Alan Love,2200,5.5
 N06000009,Traditional Unionist Voice,Samuel Morrison,1887,4.7
-N06000009,Sinn Fein,Jacqui McGeough,1144,2.9
+N06000009,Sinn Féin,Jacqui McGeough,1144,2.9
 N06000009,Independent,Jonny Orr,756,1.9
 N06000009,Conservative,Helen Osborne,654,1.6
 S14000042,Scottish National Party,Angela Crawley,26976,48.8
@@ -2365,7 +2365,7 @@ W07000071,Liberal Democrats,Bob Griffin,1351,4.1
 W07000071,Green Party,Elspeth Parris,603,1.8
 W07000071,Independent,Eddy Blanche,459,1.4
 W07000071,Communist Party of Britain,Robert Griffiths,186,0.6
-N06000010,Sinn Fein,Francie Molloy,19935,48.7
+N06000010,Sinn Féin,Francie Molloy,19935,48.7
 N06000010,Ulster Unionist Party,Sandra Overend,6318,15.4
 N06000010,Democratic Unionist Party,Ian McCrea,5465,13.4
 N06000010,Social Democratic & Labour Party,Malachy Quinn,5055,12.4
@@ -2523,7 +2523,7 @@ W07000056,UKIP,Gordon Norrie,6134,15.2
 W07000056,Plaid Cymru,Simon Coopey,1604,4
 W07000056,Liberal Democrats,Ed Townsend,1581,3.9
 W07000056,Green Party,Pippa Bartolotti,1272,3.2
-N06000011,Sinn Fein,Mickey Brady,20488,41.1
+N06000011,Sinn Féin,Mickey Brady,20488,41.1
 N06000011,Ulster Unionist Party,Danny Kennedy,16312,32.7
 N06000011,Social Democratic & Labour Party,Justin McNulty,12026,24.1
 N06000011,Alliance Party,Kate Nicholl,841,1.7
@@ -2565,7 +2565,7 @@ E14000836,Conservative,Beth Prescott,9569,20.8
 E14000836,Liberal Democrats,Edward McMillan-Scott,1330,2.9
 N06000012,Democratic Unionist Party,Ian Paisley,18107,43.2
 N06000012,Traditional Unionist Voice,Timothy Gaston,6561,15.7
-N06000012,Sinn Fein,Daithí McKay,5143,12.3
+N06000012,Sinn Féin,Daithí McKay,5143,12.3
 N06000012,Ulster Unionist Party,Robin Swann,5054,12.1
 N06000012,Social Democratic & Labour Party,Declan O'Loan,2925,7
 N06000012,Alliance Party,Jayne Dunlop,2351,5.6
@@ -2581,7 +2581,7 @@ N06000013,UKIP,Jonny Lavery,1482,4.1
 N06000013,Traditional Unionist Voice,William Cudworth,686,1.9
 N06000013,Social Democratic & Labour Party,Tom Woolley,355,1
 N06000013,Cannabis Is Safer Than Alcohol,Glenn Donnelly,338,0.9
-N06000013,Sinn Fein,Therese McCartney,273,0.8
+N06000013,Sinn Féin,Therese McCartney,273,0.8
 E14000861,Conservative,Michael Ellis,16699,42.4
 E14000861,Labour,Sally Keeble,13454,34.1
 E14000861,UKIP,Tom Rubython,6354,16.1
@@ -3128,13 +3128,13 @@ E14000932,Labour,David Oakensen,4419,7.3
 E14000932,Independent,Ian Angell,365,0.6
 N06000014,Ulster Unionist Party,Danny Kinahan,11942,32.7
 N06000014,Democratic Unionist Party,William McCrea,10993,30.1
-N06000014,Sinn Fein,Declan Kearney,4699,12.9
+N06000014,Sinn Féin,Declan Kearney,4699,12.9
 N06000014,Alliance Party,Neil Kelly,3576,9.8
 N06000014,Social Democratic & Labour Party,Roisin Lynch,2990,8.2
 N06000014,Traditional Unionist Voice,Richard Cairns,1908,5.2
 N06000014,Conservative,Alan Dunlop,415,1.1
 N06000015,Social Democratic & Labour Party,Margaret Ritchie,18077,42.3
-N06000015,Sinn Fein,Chris Hazzard,12186,28.5
+N06000015,Sinn Féin,Chris Hazzard,12186,28.5
 N06000015,Ulster Unionist Party,Harold McKee,3964,9.3
 N06000015,Democratic Unionist Party,Jim Wells,3486,8.2
 N06000015,UKIP,Henry Reilly,3044,7.1
@@ -3304,7 +3304,7 @@ N06000016,Social Democratic & Labour Party,Joe Boyle,2335,6.9
 N06000016,UKIP,Joe Jordan,2237,6.6
 N06000016,Conservative,Johnny Andrews,2167,6.4
 N06000016,Traditional Unionist Voice,Stephen Cooper,1701,5
-N06000016,Sinn Fein,Sheila Bailie,876,2.6
+N06000016,Sinn Féin,Sheila Bailie,876,2.6
 E14000977,Conservative,Nadhim Zahawi,29674,57.7
 E14000977,UKIP,Edward Fila,6798,13.2
 E14000977,Labour,Jeff Kenner,6677,13
@@ -3564,7 +3564,7 @@ E14000853,TUSC,Tim Wall,304,0.6
 E14000853,National Front,Bob Batten,191,0.4
 N06000017,Democratic Unionist Party,David Simpson,15430,32.7
 N06000017,Ulster Unionist Party,Jo-Anne Dobson,13166,27.9
-N06000017,Sinn Fein,Catherine Seeley,11593,24.6
+N06000017,Sinn Féin,Catherine Seeley,11593,24.6
 N06000017,Social Democratic & Labour Party,Dolores Kelly,4238,9
 N06000017,Alliance Party,Peter Lavery,1780,3.8
 N06000017,Cannabis Is Safer Than Alcohol,Martin Kelly,460,1
@@ -3743,7 +3743,7 @@ E14001032,Green Party,Rachel Collinson,2651,5
 E14001032,Liberal Democrats,Paul Reynolds,1430,2.7
 E14001032,Christian Peoples Alliance,Andy Uzoka,369,0.7
 E14001032,Communities United,Cydatty Bogie,115,0.2
-N06000018,Sinn Fein,Pat Doherty,16807,43.5
+N06000018,Sinn Féin,Pat Doherty,16807,43.5
 N06000018,Democratic Unionist Party,Tom Buchanan,6747,17.5
 N06000018,Social Democratic & Labour Party,Daniel McCrossan,6444,16.7
 N06000018,Ulster Unionist Party,Ross Hussey,6144,15.9

@@ -71,7 +71,7 @@
       "path": "data/candidates.csv",
       "format": "csv",
       "mediatype": "text/csv",
-      "hash": "f8b62684237390c8bfef5a96dcbdf1b7",
+      "hash": "161b63d830900de7a430d75a653d50b2",
       "schema": {
         "fields": [
           {
