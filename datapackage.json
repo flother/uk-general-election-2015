@@ -49,7 +49,7 @@
           },
           {
             "name": "turnout",
-            "description": "number of people who voted in the constituency",
+            "description": "number of valid votes counted in the constituency",
             "type": "number"
           },
           {
