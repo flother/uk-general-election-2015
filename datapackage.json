@@ -34,7 +34,7 @@
           },
           {
             "name": "name",
-            "description": "name of the constituency",
+            "description": "formal name of the constituency",
             "type": "string"
           },
           {
@@ -81,22 +81,22 @@
           },
           {
             "name": "party",
-            "description": "name of the political party for which the candidate is standing",
+            "description": "name of the political party for which the candidate stood",
             "type": "string"
           },
           {
             "name": "candidate",
-            "description": "candidate's name",
+            "description": "candidate's own name",
             "type": "string"
           },
           {
             "name": "votes",
-            "description": "number of votes the candidate received",
+            "description": "number of valid votes cast for the candidate",
             "type": "integer"
           },
           {
             "name": "vote_share",
-            "description": "percentage of the constituency turnout that voted for the candidate",
+            "description": "valid votes cast for the candidate divided by valid votes cast in the constituency, rendered as a percentage",
             "type": "number"
           }
         ],
