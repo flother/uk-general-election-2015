@@ -55,7 +55,7 @@ The latest version of this data can be found at
 https://github.com/flother/uk-general-election-2015.
 
 
-# Chaneglog
+# Changelog
 
     2015-05-25: Version 1.0 released
 
