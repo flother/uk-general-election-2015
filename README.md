@@ -57,7 +57,7 @@ https://github.com/flother/uk-general-election-2015.
 
 # Changelog
 
-    2015-05-25: Version 1.0 released
+    2015-05-25: Version 1.0.0 released
 
 
 [1]: http://dataprotocols.org/data-packages/
